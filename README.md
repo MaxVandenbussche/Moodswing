@@ -6,4 +6,4 @@ This board packs some interesting features:
 + Want to make the light portable? The LED drivers run from one or more 18650 Li-Ion cells. Add as many as your heart desires. There is a onboard charger and battery protection included. 5 small LEDs indicate the state of the battery charge.
 + The board packs high efficiency switching drivers. Say no to wasted heat in linear drivers! More effeciency means longer battery life.
 
-![Alt text](Images/Altium_Capture.png?raw=true "Board")
+![Alt text](Images/Altium_Capture.PNG?raw=true "Board")
